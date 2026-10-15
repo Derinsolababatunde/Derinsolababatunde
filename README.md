@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Derinsolababatunde
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m a cybersecurity engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on X, @Marv_Aderinsola
 - 😄 Pronouns: He
